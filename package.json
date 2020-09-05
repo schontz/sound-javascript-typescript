@@ -1,0 +1,23 @@
+{
+  "name": "sound-javascript-typescript",
+  "version": "1.0.0",
+  "description": "Sound JavaScript and TypeScript samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schontz/sound-javascript-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schontz/sound-javascript-typescript/issues"
+  },
+  "homepage": "https://github.com/schontz/sound-javascript-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
