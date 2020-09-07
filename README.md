@@ -6,6 +6,7 @@ This repo was set up using create-react-app's TypeScript template so we can focu
 
 # Articles
 
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) -- Great book on TypeScript, with a couple sections covering core JavaScript concepts (JavaScript and Future JavaScript Now).
 - [15 JavaScript Concepts that Every NodeJS Programmer Must Know](https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7) -- Succinct `prototype` and hoisting explanations.
 - [12 JavaScript Concepts That Will Level Up Your Development Skills](https://hackernoon.com/12-javascript-concepts-that-will-level-up-your-development-skills-b37d16ad7104) -- Good overview of ES6 syntax and modern JS features.
 
